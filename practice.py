@@ -1,4 +1,5 @@
 import pandas as pd
+import Numpy as np
 
 # Example usage of pandas
 data = {
